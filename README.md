@@ -23,7 +23,7 @@ Note:
 1. 2019-ACM-A Survey on Session-based Recommender Systems✅
 2. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) ✅
 3. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅
-4. [2019-WWW-Graph Neural Networks for Social Recommendation](http://delivery.acm.org/10.1145/3320000/3313488/p417-fan.pdf?ip=223.3.69.216&id=3313488&acc=ACTIVE SERVICE&key=BF85BBA5741FDC6E.EEBE655830483280.4D4702B0C3E38B35.4D4702B0C3E38B35&__acm__=1575464827_7b6f46bd03466caaac3c942b9b3aa975) ✅
+4. 2019-WWW-Graph Neural Networks for Social Recommendation✅
 
 ### 03 session-based recommendation
 
