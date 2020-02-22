@@ -5,25 +5,30 @@ Note:
 1. Personal paperlist about recommender system, there maybe some doodle in some pdf😊.
 2. Papers would be sorted according to the publish time.
 3. The format of document name: **year-Conference/Journal-paper title** [researcher] status(✅)
-4. Some useful icons ⭐😄😊😟😭
+4. Some papers with hyperlinks may not have pdf version in corresponding file.
+5. Some useful icons ⭐😄😊😟😭
 
 
 
 ### 01. survey
 
 1. 2013-Springer-Social recommendation: a review ✅
-2. 
+2. 2018-Online-Explainable Recommendation A Survey and New Perspectives ✅
+3. 2019-ACM-A Survey on Session-based Recommender Systems
 
 
 
 ### 02. social recommendation
 
-
+1. 2019-ACM-A Survey on Session-based Recommender Systems✅
+2. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) ✅
+3. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅
+4. [2019-WWW-Graph Neural Networks for Social Recommendation](http://delivery.acm.org/10.1145/3320000/3313488/p417-fan.pdf?ip=223.3.69.216&id=3313488&acc=ACTIVE SERVICE&key=BF85BBA5741FDC6E.EEBE655830483280.4D4702B0C3E38B35.4D4702B0C3E38B35&__acm__=1575464827_7b6f46bd03466caaac3c942b9b3aa975) ✅
 
 ### 03 session-based recommendation
 
-1. 2020-WWW-Future Data Helps Training Modeling Future Contexts for Session-based Recommendation ✅
-2. 
+1. 2019-AAAI-Session-based Recommendation with Graph Neural Networks ✅
+2. 2020-WWW-Future Data Helps Training Modeling Future Contexts for Session-based Recommendation ✅
 
 ### 04 group recommendation
 
@@ -33,6 +38,7 @@ Note:
 ### 05 recommendation
 
 1. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation ✅
+2. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) ✅
 
 ### 06 Context-aware recommender system(CARS)
 
