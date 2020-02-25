@@ -14,7 +14,12 @@
 
   papers:
 
+- **Hao Wang**
+
+  Homepage: [Haowang' Homepage](http://www.wanghao.in/)
+
+- **Hao Ma**
+
+  
+
 - 
-
-
-

@@ -28,7 +28,9 @@ Note:
 ### 03 session-based recommendation
 
 1. 2019-AAAI-Session-based Recommendation with Graph Neural Networks ✅
-2. 2020-WWW-Future Data Helps Training Modeling Future Contexts for Session-based Recommendation ✅
+2. 2019-KDD-Streaming Session-based Recommendation
+3. 2019-WSDM-Session-based Social Recommendation via Dynamic Graph Attention Networks
+4. 2020-WWW-Future Data Helps Training Modeling Future Contexts for Session-based Recommendation ✅
 
 ### 04 group recommendation
 
@@ -39,10 +41,32 @@ Note:
 
 1. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation ✅
 2. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) ✅
+3. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System
+   - interactive recommender system
+4. 
 
 ### 06 Context-aware recommender system(CARS)
 
-1. 2020-arXive-Graph Convolution Machine for Context-aware Recommender System ✅
+1. 2011-RecSys-Matrix Factorization Techniques for Context Aware Recommendation✅ 
 
+   -  when a contextual factor has no inﬂuence on the rating it plays the role of noise,  CARS should consider the trade-oﬀ between model complexity and the amount of available training data
 
+2. 2018-ICDM-D-CARS: A **Declarative** Context-Aware Recommender System
+
+3. [2019-RecSys-Deep Context-Aware Recommender System Utilizing Sequential Latent Context](https://arxiv.org/pdf/1909.03999.pdf) CARS workshop
+
+4. 2019-KDD-Workshop on Context-Aware Recommender Systems ✅(CARS workshop on kdd'19)
+
+   - multi type of data and media
+   - dynamic information
+
+5. 2020-arXive-Graph Convolution Machine for Context-aware Recommender System ✅
+
+6. 2020-WSDM-Temporal Context-Aware Representation Learning for Question Routing
+
+   - question routing problem: recommending newly posted questions to the potential answerers who are most likely to answer the questions.
+
+7. ###### 
+
+8. 
 
