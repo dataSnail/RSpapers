@@ -13,9 +13,9 @@ Note:
 ### 01. survey
 
 1. 2013-Springer-**Social recommendation**: a review ✅ (HL)
-2. [2017-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
 3. 2018-Online-**Explainable Recommendation** A Survey and New Perspectives ✅
 4. [2019-ACM-A Survey on **Session-based** Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf)
+4. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
 
 ### 02. social recommendation
 
@@ -25,16 +25,15 @@ Note:
 4. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅(LW)
 5. 2019-WWW-Graph Neural Networks for Social Recommendation✅
 6. 2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks✅
-7. 
 
 ### 03 session-based recommendation
 
 1. 2019-AAAI-Session-based Recommendation with Graph Neural Networks ✅
 2. 2019-KDD-Streaming Session-based Recommendation
-3. 2020-WWW-Future Data Helps Training Modeling Future Contexts for Session-based Recommendation ✅ 😟
+4. 2019-WSDM-**Session-based** Social Recommendation via Dynamic Graph Attention Networks✅
+4. 2020-WWW-Future Data Helps Training Modeling Future Contexts for Session-based Recommendation ✅ 😟
    - only using the past sequence would limit the model's ability.
    - dilate CNN, causal CNN
-4. 2019-WSDM-**Session-based** Social Recommendation via Dynamic Graph Attention Networks✅
 
 ### 04 group recommendation
 
@@ -61,3 +60,35 @@ Note:
 5. [2020-arXive-Graph Convolution Machine for Context-aware Recommender System](https://arxiv.org/pdf/2001.11402.pdf) ✅ (🐴)
 6. 2020-WSDM-Temporal Context-Aware Representation Learning for Question Routing
    - question routing problem: recommending newly posted questions to the potential answerers who are most likely to answer the questions.
+
+
+
+### 07 Source code
+
+A Neural Influence Diffusion Model for Social Recommendation
+
+源码 https://github.com/PeiJieSun/diffnet
+
+Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems
+
+源码 https://github.com/echo740/DANSER-WWW-19
+
+Attentive Group Recommendation
+
+源码 https://github.com/LianHaiMiao/Attentive-Group-Recommendation
+
+Social-Enhanced Attentive Group Recommendation
+
+源码 https://github.com/caoda0721/SoAGREE
+
+Neural Attentive Session-based Recommendation
+
+源码 https://github.com/lijingsdu/sessionRec_NARM
+
+Personalizing Session-based Recommendation with Hierarchical Recurrent Neural Networks
+
+源码 https://github.com/mquad/hgru4rec
+
+Session-based Social Recommendation via Dynamic Graph Attention Networks
+
+源码 https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec
