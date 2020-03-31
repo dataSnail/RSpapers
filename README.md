@@ -7,14 +7,13 @@ Note:
 3. The format of document name: **year-Conference/Journal-paper title** [researcher] status(✅)
 4. Some papers with hyperlinks may not have pdf version in corresponding file.
 5. Some useful icons ⭐😄😊😟😭:horse:
-6. :ballot_box_with_check:means zhy has read this paper in detail.
-7. :negative_squared_cross_mark:means zhy is still reading or has read this paper briefly.
+6. :ballot_box_with_check:means zhy has read this paper.
 
 
 
 ### 01. survey
 
-1. 2013-Springer-**Social recommendation**: a review ✅ (HL)
+1. 2013-Springer-**Social recommendation**: a review ✅ (HL):ballot_box_with_check:
 3. 2018-Online-**Explainable Recommendation** A Survey and New Perspectives ✅
 3. 2018-CJC-基于深度学习的推荐系统研究综述
 4. [2019-ACM-A Survey on **Session-based** Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf)
@@ -30,7 +29,14 @@ Note:
 5. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅(LW)
 6. 2019-WWW-Graph Neural Networks for Social Recommendation✅
 7. 2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks✅
-8. 
+8. 2018-SIGIR-Attentive Recurrent Social Recommendation:ballot_box_with_check:
+9. 2018-AAAI-Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation:ballot_box_with_check:
+10. 2018-SMC-Collaborative Neural Social Recommendation:ballot_box_with_check:
+11. 2019-WWWC-Dual Graph Atention Networks for Deep Latent Representation of Multifaceted Social Efects in Recommender Systems:ballot_box_with_check:
+12. 2018-AAAI-Social Recommendation with an Essential Preference Space:ballot_box_with_check:
+13. 2010-Recsys-A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks(socialMF):ballot_box_with_check:
+14. 2009-SIGIR-Learning to Recommend with Social Trust Ensemble(STE):ballot_box_with_check:
+15. 2008-CIKM-SoRec: Social Recommendation Using Probabilistic Matrix Factorization(SoRec):ballot_box_with_check:
 
 ### 03 session-based recommendation
 
