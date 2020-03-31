@@ -56,9 +56,10 @@ Note:
 
 ### 04 group recommendation
 
-1. 2016-CIKM-Collaborative Social Group Inﬂuence for Event Recommendation ✅
+1. 2016-CIKM-Collaborative Social Group Inﬂuence for Event Recommendation ✅:ballot_box_with_check:
 2. 2018-TKDE-Dynamic Connection-based Social Group Recommendation ✅
 3. 2018-SIGIR-Attentive Group Recommendation:ballot_box_with_check:
+4. 2019-ICDE-Social Influence-based Group Representation Learning for Group Recommendation:ballot_box_with_check:
 
 ### 05 recommendation
 
@@ -75,11 +76,19 @@ Note:
 
 1. 2011-RecSys-Matrix Factorization Techniques for Context Aware Recommendation✅ 
    -  when a contextual factor has no inﬂuence on the rating it plays the role of noise,  CARS should consider the trade-oﬀ between model complexity and the amount of available training data
-2. 2018-ICDM-D-CARS: A **Declarative** Context-Aware Recommender System
-3. [2019-RecSys-Deep Context-Aware Recommender System Utilizing Sequential Latent Context](https://arxiv.org/pdf/1909.03999.pdf) CARS workshop
-4. 2019-KDD-Workshop on Context-Aware Recommender Systems ✅(CARS workshop on kdd'19)
+2. 2011-AI Manazine-Context-Aware Recommender System(Gediminas Adomavicius, Alexander Tuzhilin):ballot_box_with_check:
+3. 2018-ICDM-D-CARS: A **Declarative** Context-Aware Recommender System
+4. [2019-RecSys-Deep Context-Aware Recommender System Utilizing Sequential Latent Context](https://arxiv.org/pdf/1909.03999.pdf) CARS workshop
+5. 2019-KDD-Workshop on Context-Aware Recommender Systems ✅(CARS workshop on kdd'19)
    - multi type of data and media
    - dynamic information
-5. [2020-arXive-Graph Convolution Machine for Context-aware Recommender System](https://arxiv.org/pdf/2001.11402.pdf) ✅ (🐴)
-6. 2020-WSDM-Temporal Context-Aware Representation Learning for Question Routing
+6. [2020-arXive-Graph Convolution Machine for Context-aware Recommender System](https://arxiv.org/pdf/2001.11402.pdf) ✅ (🐴)
+7. 2020-WSDM-Temporal Context-Aware Representation Learning for Question Routing
    - question routing problem: recommending newly posted questions to the potential answerers who are most likely to answer the questions.
+   
+### 07 Explainable Recommendation
+1. 2014-SIGIR-Explicit Factor Models for Explainable Recommendation based on Phrase-level Sentiment Analysis:ballot_box_with_check:
+
+### 08 FM-based Recommeandation(A specific direction)
+1. 2010-Factorization Machines:ballot_box_with_check:
+2. Field-aware Factorization Machines:ballot_box_with_check:
