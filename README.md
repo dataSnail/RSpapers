@@ -7,6 +7,8 @@ Note:
 3. The format of document name: **year-Conference/Journal-paper title** [researcher] status(✅)
 4. Some papers with hyperlinks may not have pdf version in corresponding file.
 5. Some useful icons ⭐😄😊😟😭:horse:
+6. :ballot_box_with_check:means zhy has read this paper in detail.
+7. :negative_squared_cross_mark:means zhy is still reading or has read this paper briefly.
 
 
 
