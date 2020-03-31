@@ -33,7 +33,7 @@ Note:
 8. 2018-SIGIR-Attentive Recurrent Social Recommendation:ballot_box_with_check:(LW)
 9. 2018-AAAI-Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation:ballot_box_with_check:
 10. 2018-SMC-Collaborative Neural Social Recommendation:ballot_box_with_check:(LW)
-11. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) ✅(LW)
+11. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) ✅:ballot_box_with_check:(LW)
 12. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅:ballot_box_with_check:(LW)
 13. 2019-WWW-Graph Neural Networks for Social Recommendation✅:ballot_box_with_check:
 14. 2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks✅:ballot_box_with_check:
