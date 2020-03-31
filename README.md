@@ -48,7 +48,7 @@ Note:
 ### 05 recommendation
 
 1. 2018-WSDM-Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding 
-2. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking]([http://www.shichuan.org/hin/topic/Ranking/2018.WSDM%202018%20Recommendation%20in%20Heterogeneous%20Information%20Networks%20Based%20on%20Generalized%20Random%20Walk%20Model%20and%20Bayesian%20Personalized%20Ranking.pdf](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf))✅
+2. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf)✅
 3. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation ✅
 4. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) ✅
 5. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System
