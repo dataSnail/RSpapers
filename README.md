@@ -19,6 +19,7 @@ Note:
 3. 2018-CJC-基于深度学习的推荐系统研究综述
 4. [2019-ACM-A Survey on **Session-based** Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf)
 5. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
+6. 2018-FGCS-Recommender Systems for Large-Scale Social Networks: A review of challenges and solutions
 
 ### 02. social recommendation
 
