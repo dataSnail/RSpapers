@@ -34,10 +34,10 @@ Note:
 9. 2018-AAAI-Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation:ballot_box_with_check:
 10. 2018-SMC-Collaborative Neural Social Recommendation:ballot_box_with_check:(LW)
 11. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) ✅(LW)
-12. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅(LW)
-13. 2019-WWW-Graph Neural Networks for Social Recommendation✅
-14. 2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks✅
-15. 2019-WWWC-Dual Graph Atention Networks for Deep Latent Representation of Multifaceted Social Efects in Recommender Systems:ballot_box_with_check:
+12. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅:ballot_box_with_check:(LW)
+13. 2019-WWW-Graph Neural Networks for Social Recommendation✅:ballot_box_with_check:
+14. 2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks✅:ballot_box_with_check:
+15. 2019-WWWC-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Efects in Recommender Systems:ballot_box_with_check:
 
 ### 03 session-based recommendation
 
@@ -90,5 +90,10 @@ Note:
 1. 2014-SIGIR-Explicit Factor Models for Explainable Recommendation based on Phrase-level Sentiment Analysis:ballot_box_with_check:
 
 ### 08 FM-based Recommeandation(A specific direction)
-1. 2010-Factorization Machines:ballot_box_with_check:
-2. Field-aware Factorization Machines:ballot_box_with_check:
+1. 2010-Factorization Machines(FM):ballot_box_with_check:
+2. 2016-Recsysy-Field-aware Factorization Machines in a Real-world Online Advertising System(FFM):ballot_box_with_check:
+3. 2017-SIGIR-Neural Factorization Machines for Sparse Predictive Analytics(NFM):ballot_box_with_check:
+4. 2017-DeepFM: A Factorization-Machine based Neural Network for CTR Prediction(DeepFM):ballot_box_with_check:
+5. 2017-KDD-Deep & cross network for ad click predictions(Deep&Cross):ballot_box_with_check:
+6. 2017-Attentional factorization machines: Learning the weight of feature interactions via attention networks(Attentional FM):ballot_box_with_check:
+7. 2020-ICDE-Sequence-Aware Factorization Machines for Temporal Predictive Analytics（SeqFM):ballot_box_with_check:
