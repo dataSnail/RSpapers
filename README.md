@@ -14,17 +14,20 @@ Note:
 
 1. 2013-Springer-**Social recommendation**: a review ✅ (HL)
 3. 2018-Online-**Explainable Recommendation** A Survey and New Perspectives ✅
+3. 2018-CJC-基于深度学习的推荐系统研究综述
 4. [2019-ACM-A Survey on **Session-based** Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf)
-4. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
+5. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
 
 ### 02. social recommendation
 
 1. [2012-CIKM-Social Contextual Recommendation](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SocialContextualRec.pdf) (WWZ)
 2. [2017-WWW-Learning Personalized Preference of Strong and Weak Ties for Social Recommendation](http://www.findshine.com/me/downloads/papers/www2017-Learning_Personalized_Preference_of_Strong_and_Weak_Ties_for_Social_Recommendation.pdf)
-3. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) ✅(LW)
-4. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅(LW)
-5. 2019-WWW-Graph Neural Networks for Social Recommendation✅
-6. 2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks✅
+3. [2018-WSDM-Adaptive implicit friends identification over heterogeneous network for social recommendation](https://dl.acm.org/doi/10.1145/3269206.3271725)
+4. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) ✅(LW)
+5. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅(LW)
+6. 2019-WWW-Graph Neural Networks for Social Recommendation✅
+7. 2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks✅
+8. 
 
 ### 03 session-based recommendation
 
@@ -34,6 +37,8 @@ Note:
 4. 2020-WWW-Future Data Helps Training Modeling Future Contexts for Session-based Recommendation ✅ 😟
    - only using the past sequence would limit the model's ability.
    - dilate CNN, causal CNN
+5. 2019-SIGIR-Sequence and Time Aware Neighborhood for Session-based Recommendations: STAN (short paper)
+6. 
 
 ### 04 group recommendation
 
@@ -42,11 +47,14 @@ Note:
 
 ### 05 recommendation
 
-1. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation ✅
-2. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) ✅
-3. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System
+1. 2018-WSDM-Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding 
+2. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking]([http://www.shichuan.org/hin/topic/Ranking/2018.WSDM%202018%20Recommendation%20in%20Heterogeneous%20Information%20Networks%20Based%20on%20Generalized%20Random%20Walk%20Model%20and%20Bayesian%20Personalized%20Ranking.pdf](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf))
+3. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation ✅
+4. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) ✅
+5. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System
    - interactive recommender system
-4. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) (:horse:)
+6. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) (:horse:)
+7. 
 
 ### 06 Context-aware recommender system(CARS)
 
