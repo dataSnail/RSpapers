@@ -48,13 +48,13 @@ Note:
 ### 05 recommendation
 
 1. 2018-WSDM-Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding 
-2. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking]([http://www.shichuan.org/hin/topic/Ranking/2018.WSDM%202018%20Recommendation%20in%20Heterogeneous%20Information%20Networks%20Based%20on%20Generalized%20Random%20Walk%20Model%20and%20Bayesian%20Personalized%20Ranking.pdf](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf))
+2. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking]([http://www.shichuan.org/hin/topic/Ranking/2018.WSDM%202018%20Recommendation%20in%20Heterogeneous%20Information%20Networks%20Based%20on%20Generalized%20Random%20Walk%20Model%20and%20Bayesian%20Personalized%20Ranking.pdf](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf))✅
 3. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation ✅
 4. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) ✅
 5. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System
    - interactive recommender system
-6. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) (:horse:)
-7. 
+6. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) ✅(:horse:)
+7. 2019-KDD-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
 
 ### 06 Context-aware recommender system(CARS)
 
@@ -68,35 +68,3 @@ Note:
 5. [2020-arXive-Graph Convolution Machine for Context-aware Recommender System](https://arxiv.org/pdf/2001.11402.pdf) ✅ (🐴)
 6. 2020-WSDM-Temporal Context-Aware Representation Learning for Question Routing
    - question routing problem: recommending newly posted questions to the potential answerers who are most likely to answer the questions.
-
-
-
-### 07 Source code
-
-A Neural Influence Diffusion Model for Social Recommendation
-
-源码 https://github.com/PeiJieSun/diffnet
-
-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems
-
-源码 https://github.com/echo740/DANSER-WWW-19
-
-Attentive Group Recommendation
-
-源码 https://github.com/LianHaiMiao/Attentive-Group-Recommendation
-
-Social-Enhanced Attentive Group Recommendation
-
-源码 https://github.com/caoda0721/SoAGREE
-
-Neural Attentive Session-based Recommendation
-
-源码 https://github.com/lijingsdu/sessionRec_NARM
-
-Personalizing Session-based Recommendation with Hierarchical Recurrent Neural Networks
-
-源码 https://github.com/mquad/hgru4rec
-
-Session-based Social Recommendation via Dynamic Graph Attention Networks
-
-源码 https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec
