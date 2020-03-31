@@ -13,46 +13,52 @@ Note:
 
 ### 01. survey
 
-1. 2013-Springer-**Social recommendation**: a review ✅ (HL):ballot_box_with_check:
-3. 2018-Online-**Explainable Recommendation** A Survey and New Perspectives ✅
-3. 2018-CJC-基于深度学习的推荐系统研究综述
-4. [2019-ACM-A Survey on **Session-based** Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf)
-5. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
-6. 2018-FGCS-Recommender Systems for Large-Scale Social Networks: A review of challenges and solutions:ballot_box_with_check:
+1. 2013-Springer-**Social recommendation**: a review ✅:ballot_box_with_check: (HL)
+2. 2018-Online-**Explainable Recommendation** A Survey and New Perspectives ✅
+3. 2018-FGCS-Recommender Systems for Large-Scale Social Networks: A review of challenges and solutions:ballot_box_with_check:
+4. 2018-CJC-基于深度学习的推荐系统研究综述
+5. [2019-ACM-A Survey on **Session-based** Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf)
+6. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
+
 
 ### 02. social recommendation
 
-1. [2012-CIKM-Social Contextual Recommendation](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SocialContextualRec.pdf) (WWZ)
-2. [2017-WWW-Learning Personalized Preference of Strong and Weak Ties for Social Recommendation](http://www.findshine.com/me/downloads/papers/www2017-Learning_Personalized_Preference_of_Strong_and_Weak_Ties_for_Social_Recommendation.pdf)
-3. [2018-WSDM-Adaptive implicit friends identification over heterogeneous network for social recommendation](https://dl.acm.org/doi/10.1145/3269206.3271725)
-4. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) ✅(LW)
-5. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅(LW)
-6. 2019-WWW-Graph Neural Networks for Social Recommendation✅
-7. 2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks✅
-8. 2018-SIGIR-Attentive Recurrent Social Recommendation:ballot_box_with_check:
+1. 2008-CIKM-SoRec: Social Recommendation Using Probabilistic Matrix Factorization(SoRec):ballot_box_with_check:
+2. 2009-SIGIR-Learning to Recommend with Social Trust Ensemble(STE):ballot_box_with_check:
+3. 2010-Recsys-A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks(socialMF):ballot_box_with_check:
+4. [2012-CIKM-Social Contextual Recommendation](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SocialContextualRec.pdf) (WWZ)
+5. [2017-WWW-Learning Personalized Preference of Strong and Weak Ties for Social Recommendation](http://www.findshine.com/me/downloads/papers/www2017-Learning_Personalized_Preference_of_Strong_and_Weak_Ties_for_Social_Recommendation.pdf)
+6. [2018-WSDM-Adaptive implicit friends identification over heterogeneous network for social recommendation](https://dl.acm.org/doi/10.1145/3269206.3271725)
+7. 2018-AAAI-Social Recommendation with an Essential Preference Space:ballot_box_with_check:
+8. 2018-SIGIR-Attentive Recurrent Social Recommendation:ballot_box_with_check:(LW)
 9. 2018-AAAI-Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation:ballot_box_with_check:
-10. 2018-SMC-Collaborative Neural Social Recommendation:ballot_box_with_check:
-11. 2019-WWWC-Dual Graph Atention Networks for Deep Latent Representation of Multifaceted Social Efects in Recommender Systems:ballot_box_with_check:
-12. 2018-AAAI-Social Recommendation with an Essential Preference Space:ballot_box_with_check:
-13. 2010-Recsys-A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks(socialMF):ballot_box_with_check:
-14. 2009-SIGIR-Learning to Recommend with Social Trust Ensemble(STE):ballot_box_with_check:
-15. 2008-CIKM-SoRec: Social Recommendation Using Probabilistic Matrix Factorization(SoRec):ballot_box_with_check:
+10. 2018-SMC-Collaborative Neural Social Recommendation:ballot_box_with_check:(LW)
+11. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) ✅(LW)
+12. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅(LW)
+13. 2019-WWW-Graph Neural Networks for Social Recommendation✅
+14. 2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks✅
+15. 2019-WWWC-Dual Graph Atention Networks for Deep Latent Representation of Multifaceted Social Efects in Recommender Systems:ballot_box_with_check:
 
 ### 03 session-based recommendation
 
-1. 2019-AAAI-Session-based Recommendation with Graph Neural Networks ✅
-2. 2019-KDD-Streaming Session-based Recommendation
-4. 2019-WSDM-**Session-based** Social Recommendation via Dynamic Graph Attention Networks✅
-4. 2020-WWW-Future Data Helps Training Modeling Future Contexts for Session-based Recommendation ✅ 😟
+1. 2016-ICLR-SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS:ballot_box_with_check:
+2. 2017-CIKM-Interacting Attention-gated Recurrent Networks for Recommendation:ballot_box_with_check:
+3. 2017-Recsys-Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks:ballot_box_with_check:
+4. 2017-WSDM-Recurrent Recommender Networks:ballot_box_with_check:
+5. 2017-CIKM-Neural Attentive Session-based Recommendation:ballot_box_with_check:
+6. 2019-AAAI-Session-based Recommendation with Graph Neural Networks ✅
+7. 2019-KDD-Streaming Session-based Recommendation
+8. 2019-WSDM-**Session-based** Social Recommendation via Dynamic Graph Attention Networks✅:ballot_box_with_check:
+9. 2019-SIGIR-Sequence and Time Aware Neighborhood for Session-based Recommendations: STAN (short paper)
+10. 2020-WWW-Future Data Helps Training Modeling Future Contexts for Session-based Recommendation ✅ 😟
    - only using the past sequence would limit the model's ability.
    - dilate CNN, causal CNN
-5. 2019-SIGIR-Sequence and Time Aware Neighborhood for Session-based Recommendations: STAN (short paper)
-6. 
 
 ### 04 group recommendation
 
 1. 2016-CIKM-Collaborative Social Group Inﬂuence for Event Recommendation ✅
 2. 2018-TKDE-Dynamic Connection-based Social Group Recommendation ✅
+3. 2018-SIGIR-Attentive Group Recommendation:ballot_box_with_check:
 
 ### 05 recommendation
 
