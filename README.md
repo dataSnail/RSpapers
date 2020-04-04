@@ -4,10 +4,9 @@ Note:
 
 1. Personal paperlist about recommender system, there maybe some doodle in some pdf😊.
 2. Papers would be sorted according to the publish time.
-3. The format of document name: **year-Conference/Journal-paper title** [researcher] status(✅)
+3. The format of document name: **year-Conference/Journal-paper title** [researcher] status(✅:ballot_box_with_check:)  (reading status of two contributors)
 4. Some papers with hyperlinks may not have pdf version in corresponding file.
 5. Some useful icons ⭐😄😊😟😭:horse:
-6. :ballot_box_with_check:means zhy has read this paper.
 
 
 
@@ -28,16 +27,20 @@ Note:
 3. 2010-Recsys-A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks(socialMF):ballot_box_with_check:
 4. [2012-CIKM-Social Contextual Recommendation](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SocialContextualRec.pdf) (WWZ)
 5. [2017-WWW-Learning Personalized Preference of Strong and Weak Ties for Social Recommendation](http://www.findshine.com/me/downloads/papers/www2017-Learning_Personalized_Preference_of_Strong_and_Weak_Ties_for_Social_Recommendation.pdf)
-6. [2018-WSDM-Adaptive implicit friends identification over heterogeneous network for social recommendation](https://dl.acm.org/doi/10.1145/3269206.3271725)
+6. [2018-WSDM-Adaptive implicit friends identification over heterogeneous network for social recommendation](https://dl.acm.org/doi/10.1145/3269206.3271725)✅(HL, HZY)
 7. 2018-AAAI-Social Recommendation with an Essential Preference Space:ballot_box_with_check:
-8. 2018-SIGIR-Attentive Recurrent Social Recommendation:ballot_box_with_check:(LW)
+8. [2018-SIGIR-Attentive Recurrent Social Recommendation](https://dl.acm.org/doi/10.1145/3209978.3210023)✅:ballot_box_with_check:(LW)
+   - social structure
+   - dynamic social influence
 9. 2018-AAAI-Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation:ballot_box_with_check:
 10. 2018-SMC-Collaborative Neural Social Recommendation:ballot_box_with_check:(LW)
-11. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) ✅:ballot_box_with_check:(LW)
-12. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅:ballot_box_with_check:(LW)
-13. 2019-WWW-Graph Neural Networks for Social Recommendation✅:ballot_box_with_check:
-14. 2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks✅:ballot_box_with_check:
-15. 2019-WWWC-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Efects in Recommender Systems:ballot_box_with_check:
+11. [2019-IJCAI-Deep Adversarial Social Recommendation](https://arxiv.org/pdf/1905.13160.pdf) (JLT)
+12. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) ✅:ballot_box_with_check:(LW)
+13. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅:ballot_box_with_check:(LW)
+14. [2019-WWW-Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf)✅:ballot_box_with_check: (JLT)
+15. [2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)✅:ballot_box_with_check:
+16. [2019-WWWC-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems](https://arxiv.org/pdf/1903.10433.pdf):ballot_box_with_check:
+17. [2019-RecSys-deep social collaborative filtering](https://arxiv.org/pdf/1907.06853.pdf)✅（JLT）
 
 ### 03 session-based recommendation
 
@@ -63,14 +66,16 @@ Note:
 
 ### 05 recommendation
 
-1. 2018-WSDM-Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding 
-2. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf)✅
-3. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation ✅
-4. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) ✅
-5. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System
+1. [2018-WSDM-Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](https://arxiv.org/pdf/1809.07426.pdf) 
+2. [2018-KDD-Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973) ✅(Jure Leskovec)
+3. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf)✅
+   - heterogeneous network， BPR
+4. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation ✅ （:horse:)
+5. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) ✅
+6. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System
    - interactive recommender system
-6. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) ✅(:horse:)
-7. 2019-KDD-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
+7. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) ✅(:horse:)
+8. 2019-KDD-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
 
 ### 06 Context-aware recommender system(CARS)
 
@@ -83,7 +88,7 @@ Note:
    - multi type of data and media
    - dynamic information
 6. [2020-arXive-Graph Convolution Machine for Context-aware Recommender System](https://arxiv.org/pdf/2001.11402.pdf) ✅ (🐴)
-7. 2020-WSDM-Temporal Context-Aware Representation Learning for Question Routing
+7. 2020-WSDM-Temporal Context-Aware Representation Learning for Question Routing ✅ 
    - question routing problem: recommending newly posted questions to the potential answerers who are most likely to answer the questions.
    
 ### 07 Explainable Recommendation
