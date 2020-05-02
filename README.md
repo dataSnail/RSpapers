@@ -18,6 +18,7 @@ Note:
 4. 2018-CJC-基于深度学习的推荐系统研究综述
 5. [2019-ACM-A Survey on **Session-based** Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf)
 6. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
+7. [2020-Arxiv-graph learning approaches to recommender systems A review](https://arxiv.org/ftp/arxiv/papers/2004/2004.11718.pdf)
 
 
 ### 02. social recommendation
@@ -109,6 +110,9 @@ Note:
    
 ### 07 Explainable Recommendation
 1. 2014-SIGIR-Explicit Factor Models for Explainable Recommendation based on Phrase-level Sentiment Analysis:ballot_box_with_check:
+2. [2017-WSDM-Social collaborative viewpoint regression with explainable recommendations](https://dl.acm.org/doi/10.1145/3018661.3018686)
+3. [2018-EARS-Explaining Credibility in News Articles using Cross-Referencing](https://chauff.github.io/documents/publications/EARS2018-Bountouridis.pdf)
+4. [2019-AAAI-dynamic explainable recommendation based on neural attentive models](http://yongfeng.me/attach/dynamic-explainable-recommendation.pdf)
 
 ### 08 FM-based Recommeandation(A specific direction)
 1. 2010-Factorization Machines(FM):ballot_box_with_check:
