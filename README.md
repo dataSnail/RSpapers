@@ -105,7 +105,7 @@ Note:
    - multi type of data and media
    - dynamic information
 6. [2020-arXive-Graph Convolution Machine for Context-aware Recommender System](https://arxiv.org/pdf/2001.11402.pdf) ✅ (🐴)
-7. 2020-WSDM-Temporal Context-Aware Representation Learning for Question Routing ✅ 
+7. [2020-WSDM-Temporal Context-Aware Representation Learning for Question Routing](https://dl.acm.org/doi/abs/10.1145/3336191.3371847) ✅ 
    - question routing problem: recommending newly posted questions to the potential answerers who are most likely to answer the questions.
    
 ### 07 Explainable Recommendation
