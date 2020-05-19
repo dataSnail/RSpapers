@@ -15,9 +15,9 @@ Note:
 1. 2013-Springer-**Social recommendation**: a review ✅:ballot_box_with_check: (HL)
 2. 2018-Online-**Explainable Recommendation** A Survey and New Perspectives ✅
 3. 2018-FGCS-Recommender Systems for Large-Scale Social Networks: A review of challenges and solutions:ballot_box_with_check:
-4. 2018-CJC-基于深度学习的推荐系统研究综述
+4. 2018-CJC-基于深度学习的推荐系统研究综述✅
 5. [2019-ACM-A Survey on **Session-based** Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf)
-6. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
+6. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)✅
 7. [2020-Arxiv-graph learning approaches to recommender systems A review](https://arxiv.org/ftp/arxiv/papers/2004/2004.11718.pdf)
 
 
@@ -51,7 +51,7 @@ Note:
 24. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) ✅:ballot_box_with_check:(LW)
 25. [2019-WWW-Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf)✅:ballot_box_with_check: (JLT)
 26. [2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)✅:ballot_box_with_check:
-27. [2019-WWWC-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems](https://arxiv.org/pdf/1903.10433.pdf):ballot_box_with_check:
+27. [2019-WWWC-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems](https://arxiv.org/pdf/1903.10433.pdf)✅:ballot_box_with_check:
 28. [2019-RecSys-deep social collaborative filtering](https://arxiv.org/pdf/1907.06853.pdf)✅（JLT）
 29. 2020-AAAI-Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
 ### 03 session-based recommendation
@@ -87,13 +87,13 @@ Note:
    - heterogeneous network， BPR
 7. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation ✅ （:horse:)
 8. [2019-WWW-Recommender Systems with Heterogeneous Side Information](https://arxiv.org/pdf/1907.08679.pdf) (JLT)
-9. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) ✅
-10. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System
-   - interactive recommender system
+9. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) ✅(:horse:) ⭐
+10. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System✅
+    - interactive recommender system
 11. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) ✅(:horse:)
 12. 2019-KDD-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
-13. [2020-arXiv-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126) (:horse:)
-
+13. [2020-arXiv-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126) ✅(:horse:)
+14. 2020-IPM-MGAT: **Multimodal** Graph Attention Network for Recommendation✅(:horse:)
 ### 06 Context-aware recommender system(CARS)
 
 1. 2011-RecSys-Matrix Factorization Techniques for Context Aware Recommendation✅ 
