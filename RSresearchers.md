@@ -22,6 +22,8 @@
 
   Homepage：[Jiliang Tang's Homepage](https://www.cse.msu.edu/~tangjili/index.html)
 
-  
+- Xia “Ben” Hu
 
-- 
+  Homepage：[Xia Ben Hu, Texas A&M university](http://faculty.cs.tamu.edu/xiahu/publications.html)
+
+  

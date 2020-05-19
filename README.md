@@ -85,16 +85,17 @@ Note:
 5. [2018-WSDM-CrossFire: Cross Media Joint Friend and Item Recommendations](http://www.public.asu.edu/~skai2/papers/wsdmf325-shuA.pdf) (JLT)
 6. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf):bookmark:
    - heterogeneous network， BPR
-7. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation :bookmark: (XNH)
-8. [2019-WWW-Recommender Systems with Heterogeneous Side Information](https://arxiv.org/pdf/1907.08679.pdf) (JLT)
-9. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) :bookmark: ⭐(XNH)
-10. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System:bookmark:
+7. [2019-KDD-Is a Single Vector Enough Exploring Node Polysemy for Network Embedding](https://dl.acm.org/doi/10.1145/3292500.3330967) （JT）
+8. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation :bookmark: (XNH)
+9. [2019-WWW-Recommender Systems with Heterogeneous Side Information](https://arxiv.org/pdf/1907.08679.pdf) (JLT)
+10. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) :bookmark: ⭐(XNH)
+11. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System:bookmark:
     - interactive recommender system
-11. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) :bookmark:(XNH)
-12. 2019-KDD-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
-13. [2019-KDD-NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/abs/1907.05559)(XX)
-14. [2020-arXiv-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126) :bookmark:(XNH)
-15. 2020-IPM-MGAT: **Multimodal** Graph Attention Network for Recommendation:bookmark:(XNH)
+12. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) :bookmark:(XNH)
+13. 2019-KDD-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
+14. [2019-KDD-NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/abs/1907.05559)(XX)
+15. [2020-arXiv-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126) :bookmark:(XNH)
+16. 2020-IPM-MGAT: **Multimodal** Graph Attention Network for Recommendation:bookmark:(XNH)
 ### 06 Context-aware recommender system(CARS)
 
 1. 2011-RecSys-Matrix Factorization Techniques for Context Aware Recommendation:bookmark: 
