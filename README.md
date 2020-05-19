@@ -85,7 +85,7 @@ Note:
 5. [2018-WSDM-CrossFire: Cross Media Joint Friend and Item Recommendations](http://www.public.asu.edu/~skai2/papers/wsdmf325-shuA.pdf) (JLT)
 6. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf):bookmark:
    - heterogeneous network， BPR
-7. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation ✅ (XNH)
+7. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation :bookmark: (XNH)
 8. [2019-WWW-Recommender Systems with Heterogeneous Side Information](https://arxiv.org/pdf/1907.08679.pdf) (JLT)
 9. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) :bookmark: ⭐(XNH)
 10. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System:bookmark:
