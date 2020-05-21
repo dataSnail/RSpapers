@@ -54,6 +54,9 @@ Note:
 27. [2019-WWWC-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems](https://arxiv.org/pdf/1903.10433.pdf):bookmark::ballot_box_with_check:
 28. [2019-RecSys-deep social collaborative filtering](https://arxiv.org/pdf/1907.06853.pdf):bookmark:（JLT）
 29. [2020-AAAI-Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://arxiv.org/abs/2001.10167):bookmark:
+30. [2020-TKDE(submitted)-DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation](https://arxiv.org/abs/2002.00844):bookmark:
+    - NGCF+DiffNet
+31. 
 ### 03 session-based recommendation
 
 1. 2016-ICLR-Session-based Recommendation with Recurrent Neural Networks:ballot_box_with_check:
@@ -85,7 +88,7 @@ Note:
 5. [2018-WSDM-CrossFire: Cross Media Joint Friend and Item Recommendations](http://www.public.asu.edu/~skai2/papers/wsdmf325-shuA.pdf) (JLT)
 6. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf):bookmark:
    - heterogeneous network， BPR
-7. [2019-KDD-Is a Single Vector Enough Exploring Node Polysemy for Network Embedding](https://dl.acm.org/doi/10.1145/3292500.3330967) （JT）
+7. [2019-KDD-Is a Single Vector Enough Exploring Node Polysemy for Network Embedding](https://dl.acm.org/doi/10.1145/3292500.3330967) :bookmark:（XH）
 8. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation :bookmark: (XNH)
 9. [2019-WWW-Recommender Systems with Heterogeneous Side Information](https://arxiv.org/pdf/1907.08679.pdf) (JLT)
 10. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) :bookmark: ⭐(XNH)
