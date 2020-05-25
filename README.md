@@ -18,7 +18,9 @@ Note:
 4. 2018-CJC-基于深度学习的推荐系统研究综述:bookmark:
 5. [2019-ACM-A Survey on **Session-based** Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf)
 6. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf):bookmark:
-7. [2020-Arxiv-graph learning approaches to recommender systems A review](https://arxiv.org/ftp/arxiv/papers/2004/2004.11718.pdf)
+7. [2019-RecSys-Are We Really Making Much Progress_ A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/abs/1907.06902)
+   - an interesting and controversial paper😊
+8. [2020-Arxiv-graph learning approaches to recommender systems A review](https://arxiv.org/ftp/arxiv/papers/2004/2004.11718.pdf)
 
 
 ### 02. social recommendation
@@ -48,15 +50,17 @@ Note:
 21. 2018-SMC-Collaborative Neural Social Recommendation:ballot_box_with_check:(LW)
 22. [2019-IJCAI-Deep Adversarial Social Recommendation](https://arxiv.org/pdf/1905.13160.pdf) (JLT)
 23. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) :bookmark::ballot_box_with_check:(LW)
-24. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) :bookmark::ballot_box_with_check:(LW)
-25. [2019-WWW-Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf):bookmark: (JLT)
-26. [2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf):bookmark::ballot_box_with_check:
-27. [2019-WWWC-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems](https://arxiv.org/pdf/1903.10433.pdf):bookmark::ballot_box_with_check:
-28. [2019-RecSys-deep social collaborative filtering](https://arxiv.org/pdf/1907.06853.pdf):bookmark:（JLT）
-29. [2020-AAAI-Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://arxiv.org/abs/2001.10167):bookmark:
-30. [2020-TKDE(submitted)-DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation](https://arxiv.org/abs/2002.00844):bookmark:
+24. [2019-ICDM-Generating Reliable Friends via Adversarial Training to Improve Social Recommendation](https://arxiv.org/abs/1909.03529)(ZHY)
+25. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) :bookmark::ballot_box_with_check:(LW)
+26. [2019-WWW-Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf):bookmark: (JLT)
+27. [2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf):bookmark::ballot_box_with_check:
+28. [2019-WWWC-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems](https://arxiv.org/pdf/1903.10433.pdf):bookmark::ballot_box_with_check:
+29. [2019-RecSys-deep social collaborative filtering](https://arxiv.org/pdf/1907.06853.pdf):bookmark:（JLT）
+30. [2019-RecSys-Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/abs/1908.02569)
+31. [2020-AAAI-Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://arxiv.org/abs/2001.10167):bookmark:
+32. [2020-TKDE(submitted)-DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation](https://arxiv.org/abs/2002.00844):bookmark:
     - NGCF+DiffNet
-31. 
+33. waiting for adding new papers
 ### 03 session-based recommendation
 
 1. 2016-ICLR-Session-based Recommendation with Recurrent Neural Networks:ballot_box_with_check:

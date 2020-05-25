@@ -16,4 +16,6 @@
    - 源码 https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec
 8. [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126) 
    - 源码 https://github.com/kuandeng/LightGCN
-9. 
+9. A Python Framework for Recommender Systems (TensorFlow Based)
+   - 源码https://github.com/Coder-Yu/RecQ
+10. 
