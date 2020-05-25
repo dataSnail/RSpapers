@@ -96,7 +96,7 @@ Note:
     - interactive recommender system
 12. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) :bookmark:(XNH)
 13. 2019-KDD-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
-14. [2019-KDD-NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/abs/1907.05559)(XX)
+14. [2019-KDD-NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/abs/1907.05559):bookmark:(XX)
 15. [2020-arXiv-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126) :bookmark:(XNH)
 16. 2020-IPM-MGAT: **Multimodal** Graph Attention Network for Recommendation:bookmark:(XNH)
 ### 06 Context-aware recommender system(CARS)
