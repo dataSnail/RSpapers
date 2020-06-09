@@ -56,7 +56,7 @@ Note:
 27. [2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf):bookmark::ballot_box_with_check:
 28. [2019-WWWC-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems](https://arxiv.org/pdf/1903.10433.pdf):bookmark::ballot_box_with_check:
 29. [2019-RecSys-deep social collaborative filtering](https://arxiv.org/pdf/1907.06853.pdf):bookmark:（JLT）
-30. [2019-RecSys-Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/abs/1908.02569)
+30. [2019-RecSysPoster-Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/abs/1908.02569)
 31. [2020-AAAI-Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://arxiv.org/abs/2001.10167):bookmark:
 32. [2020-TKDE(submitted)-DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation](https://arxiv.org/abs/2002.00844):bookmark:
     - NGCF+DiffNet
