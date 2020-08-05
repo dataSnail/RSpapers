@@ -18,4 +18,5 @@
    - 源码 https://github.com/kuandeng/LightGCN
 9. A Python Framework for Recommender Systems (TensorFlow Based)
    - 源码https://github.com/Coder-Yu/RecQ
-10. 
+10. 清华大学信息检索实验室（THUIR）发布的轻量级Top-K推荐评测框架：https://github.com/THUIR/ReChorus
+11. 

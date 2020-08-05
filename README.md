@@ -27,8 +27,8 @@ Note:
 
 1. 2008-CIKM-SoRec: Social Recommendation Using Probabilistic Matrix Factorization(SoRec):ballot_box_with_check:
 2. 2009-SIGIR-Learning to Recommend with Social Trust Ensemble(STE):ballot_box_with_check:
-3. 2010-Recsys-A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks(socialMF):ballot_box_with_check:
-4. 2010-ECAI-Social Recommendation with Interpersonal Influence
+3. 2010-ECAI-Social Recommendation with Interpersonal Influence
+4. 2010-Recsys-A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks(socialMF):ballot_box_with_check:
 5. [2012-CIKM-Social Contextual Recommendation](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SocialContextualRec.pdf) (WWZ)
 6. 2013-IJCAI-Exploiting Local and Global Social Context for Recommendation
 7. 2013-SIGIR-An Experimental Study on Implicit Social Recommendation
@@ -38,29 +38,36 @@ Note:
 11. 2016-CIKM-Social Recommendation with Strong and Weak Ties
 12. 2017-ICDM-Collaborative Filtering with Social Local Models
 13. 2017-IJCNN-Social Recommendation using Euclidean Embedding
-14. 2017-TPAMI-TrustMF Social Collaborative Filtering by Trust
+14. 2017-Neralcomputing-Social recommendationviamulti-viewuserpreferencelearning
 15. 2017-SIGIR-Item Silk Road_ Recommending Items from Information Domains to Social Users
-16. [2017-WWW-Learning Personalized Preference of Strong and Weak Ties for Social Recommendation](http://www.findshine.com/me/downloads/papers/www2017-Learning_Personalized_Preference_of_Strong_and_Weak_Ties_for_Social_Recommendation.pdf)
-17. [2018-WSDM-Adaptive implicit friends identification over heterogeneous network for social recommendation](https://dl.acm.org/doi/10.1145/3269206.3271725):bookmark:(HL, HZY)
-18. 2018-AAAI-Social Recommendation with an Essential Preference Space:ballot_box_with_check:
-19. [2018-SIGIR-Attentive Recurrent Social Recommendation](https://dl.acm.org/doi/10.1145/3209978.3210023):bookmark::ballot_box_with_check:(LW)
+16. 2017-TPAMI-TrustMF Social Collaborative Filtering by Trust
+17. [2017-WWW-Learning Personalized Preference of Strong and Weak Ties for Social Recommendation](http://www.findshine.com/me/downloads/papers/www2017-Learning_Personalized_Preference_of_Strong_and_Weak_Ties_for_Social_Recommendation.pdf)
+18. 2018-AAAI-Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation:ballot_box_with_check:
+19. 2018-AAAIPoster-Deep Modeling of Social Relations
+20. 2018-AAAI-Social Recommendation with an Essential Preference Space:ballot_box_with_check:
+21. 2018-CIKM-Adaptive Implicit friends Identification over Heterogeneous Network for Social Recommendation
+22. [2018-SIGIR-Attentive Recurrent Social Recommendation](https://dl.acm.org/doi/10.1145/3209978.3210023):bookmark::ballot_box_with_check:(LW)
     - social structure
     - dynamic social influence
-20. 2018-AAAI-Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation:ballot_box_with_check:
-21. 2018-SMC-Collaborative Neural Social Recommendation:ballot_box_with_check:(LW)
-22. [2019-IJCAI-Deep Adversarial Social Recommendation](https://arxiv.org/pdf/1905.13160.pdf) (JLT)
-23. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) :bookmark::ballot_box_with_check:(LW)
-24. [2019-ICDM-Generating Reliable Friends via Adversarial Training to Improve Social Recommendation](https://arxiv.org/abs/1909.03529)(ZHY)
-25. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) :bookmark::ballot_box_with_check:(LW)
-26. [2019-WWW-Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf):bookmark: (JLT)
-27. [2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf):bookmark::ballot_box_with_check:
-28. [2019-WWWC-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems](https://arxiv.org/pdf/1903.10433.pdf):bookmark::ballot_box_with_check:
-29. [2019-RecSys-deep social collaborative filtering](https://arxiv.org/pdf/1907.06853.pdf):bookmark:（JLT）
-30. [2019-RecSysPoster-Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/abs/1908.02569)
-31. [2020-AAAI-Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://arxiv.org/abs/2001.10167):bookmark:
-32. [2020-TKDE(submitted)-DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation](https://arxiv.org/abs/2002.00844):bookmark:
+23. [2018-WSDM-Adaptive implicit friends identification over heterogeneous network for social recommendation](https://dl.acm.org/doi/10.1145/3269206.3271725):bookmark:(HL, HZY)
+24. 2018-SMC-Collaborative Neural Social Recommendation:ballot_box_with_check:(LW)
+25. 2019-AAAI-Discrete Social Recommendation
+26. [2019-AAAI-SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation](https://arxiv.org/pdf/1811.02815.pdf) :bookmark::ballot_box_with_check:(LW)
+27. [2019-ICDM-Generating Reliable Friends via Adversarial Training to Improve Social Recommendation](https://arxiv.org/abs/1909.03529)(ZHY)
+28. 2019-ICFET-Modeling User Exposure with Explicit and Implicit Social Relations for Recommendation
+29. [2019-IJCAI-Deep Adversarial Social Recommendation](https://arxiv.org/pdf/1905.13160.pdf) (JLT)
+30. [2019-RecSys-deep social collaborative filtering](https://arxiv.org/pdf/1907.06853.pdf):bookmark:（JLT）
+31. [2019-RecSysPoster-Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/abs/1908.02569)
+32. [2019-WSDM-Session-based **Social Recommendation** via Dynamic Graph Attention Networks](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf):bookmark::ballot_box_with_check:
+33. [2019-SIGIR-A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf) :bookmark::ballot_box_with_check:(LW)
+34. [2019-WWWC-Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems](https://arxiv.org/pdf/1903.10433.pdf):bookmark::ballot_box_with_check:
+35. [2019-WWW-Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf):bookmark: (JLT)
+36. 2019-WWW-SamWalker Social recommendation with informative sampling strategy
+37. 2020-AAAI-PEIA_Personality and Emotion Integrated Attentive Model for Music Recommendation on Social Media Platforms
+38. [2020-AAAI-Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://arxiv.org/abs/2001.10167):bookmark:
+39. [2020-TKDE(submitted)-DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation](https://arxiv.org/abs/2002.00844):bookmark:
     - NGCF+DiffNet
-33. waiting for adding new papers
+40. waiting for adding new papers
 ### 03 session-based recommendation
 
 1. 2016-ICLR-Session-based Recommendation with Recurrent Neural Networks:ballot_box_with_check:
@@ -85,24 +92,27 @@ Note:
 ### 05 recommendation
 
 1. 2016-WWW-Modeling User Exposure in Recommendation (XNH)
-2. [2018-WSDM-Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](https://arxiv.org/pdf/1809.07426.pdf) 
-3. [2018-KDD-Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973) :bookmark:(Jure Leskovec)
-4. [2018-TKDE-Exploring Hierarchical Structures for Recommender Systems](https://faculty.ist.psu.edu/szw494/publications/IE_HSR.pdf) (JLT)
+2. 2017-WWW-Neural Collaborative Filtering
+3. [2018-WSDM-Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](https://arxiv.org/pdf/1809.07426.pdf) 
+4. [2018-KDD-Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973) :bookmark:(Jure Leskovec)
+5. [2018-TKDE-Exploring Hierarchical Structures for Recommender Systems](https://faculty.ist.psu.edu/szw494/publications/IE_HSR.pdf) (JLT)
    - received in 2015
-5. [2018-WSDM-CrossFire: Cross Media Joint Friend and Item Recommendations](http://www.public.asu.edu/~skai2/papers/wsdmf325-shuA.pdf) (JLT)
-6. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf):bookmark:
+6. [2018-WSDM-CrossFire: Cross Media Joint Friend and Item Recommendations](http://www.public.asu.edu/~skai2/papers/wsdmf325-shuA.pdf) (JLT)
+7. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf):bookmark:
    - heterogeneous network， BPR
-7. [2019-KDD-Is a Single Vector Enough Exploring Node Polysemy for Network Embedding](https://dl.acm.org/doi/10.1145/3292500.3330967) :bookmark:（XH）
-8. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation :bookmark: (XNH)
-9. [2019-WWW-Recommender Systems with Heterogeneous Side Information](https://arxiv.org/pdf/1907.08679.pdf) (JLT)
-10. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) :bookmark: ⭐(XNH)
-11. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System:bookmark:
+8. [2019-KDD-Is a Single Vector Enough Exploring Node Polysemy for Network Embedding](https://dl.acm.org/doi/10.1145/3292500.3330967) :bookmark:（XH）
+9. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation :bookmark: (XNH)
+10. [2019-WWW-Recommender Systems with Heterogeneous Side Information](https://arxiv.org/pdf/1907.08679.pdf) (JLT)
+11. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) :bookmark: ⭐(XNH)
+12. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System:bookmark:
     - interactive recommender system
-12. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) :bookmark:(XNH)
-13. 2019-KDD-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
-14. [2019-KDD-NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/abs/1907.05559):bookmark:(XX)
-15. [2020-arXiv-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126) :bookmark:(XNH)
-16. 2020-IPM-MGAT: **Multimodal** Graph Attention Network for Recommendation:bookmark:(XNH)
+13. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) :bookmark:(XNH)
+14. 2019-KDD-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
+15. [2019-KDD-NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/abs/1907.05559):bookmark:(XX)
+16. [2020-arXiv-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126) :bookmark:(XNH)
+17. 2020-arXiv-Neural Collaborative Filtering vs Matrix Factorization Revisited
+18. 2020-IPM-MGAT: **Multimodal** Graph Attention Network for Recommendation:bookmark:(XNH)
+19. 2020-SIGIR-Disentangled Graph Collaborative Filtering
 ### 06 Context-aware recommender system(CARS)
 
 1. 2011-RecSys-Matrix Factorization Techniques for Context Aware Recommendation:bookmark: 
@@ -118,10 +128,11 @@ Note:
    - question routing problem: recommending newly posted questions to the potential answerers who are most likely to answer the questions.
    
 ### 07 Explainable Recommendation
-1. 2014-SIGIR-Explicit Factor Models for Explainable Recommendation based on Phrase-level Sentiment Analysis:ballot_box_with_check:
-2. [2017-WSDM-Social collaborative viewpoint regression with explainable recommendations](https://dl.acm.org/doi/10.1145/3018661.3018686)
-3. [2018-EARS-Explaining Credibility in News Articles using Cross-Referencing](https://chauff.github.io/documents/publications/EARS2018-Bountouridis.pdf)
-4. [2019-AAAI-dynamic explainable recommendation based on neural attentive models](http://yongfeng.me/attach/dynamic-explainable-recommendation.pdf) :bookmark:
+1. 2013-WWW-Do social explanations work_ studying and modeling the effects of social explanations in recommender systems
+2. 2014-SIGIR-Explicit Factor Models for Explainable Recommendation based on Phrase-level Sentiment Analysis:ballot_box_with_check:
+3. [2017-WSDM-Social collaborative viewpoint regression with explainable recommendations](https://dl.acm.org/doi/10.1145/3018661.3018686)
+4. [2018-EARS-Explaining Credibility in News Articles using Cross-Referencing](https://chauff.github.io/documents/publications/EARS2018-Bountouridis.pdf)
+5. [2019-AAAI-dynamic explainable recommendation based on neural attentive models](http://yongfeng.me/attach/dynamic-explainable-recommendation.pdf) :bookmark:
 
 ### 08 FM-based Recommeandation(A specific direction)
 1. 2010-Factorization Machines(FM):ballot_box_with_check:
