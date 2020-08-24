@@ -112,7 +112,7 @@ Note:
 16. [2020-arXiv-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126) :bookmark:(XNH)
 17. 2020-arXiv-Neural Collaborative Filtering vs Matrix Factorization Revisited
 18. 2020-IPM-MGAT: **Multimodal** Graph Attention Network for Recommendation:bookmark:(XNH)
-19. 2020-SIGIR-Disentangled Graph Collaborative Filtering
+19. [2020-SIGIR-Disentangled Graph Collaborative Filtering](https://arxiv.org/abs/2007.01764)
 ### 06 Context-aware recommender system(CARS)
 
 1. 2011-RecSys-Matrix Factorization Techniques for Context Aware Recommendation:bookmark: 
