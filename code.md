@@ -19,4 +19,4 @@
 9. A Python Framework for Recommender Systems (TensorFlow Based)
    - 源码https://github.com/Coder-Yu/RecQ
 10. 清华大学信息检索实验室（THUIR）发布的轻量级Top-K推荐评测框架：https://github.com/THUIR/ReChorus
-11. 
+11. tensorflow官方开源框架：https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html?linkId=100309856&m=1&s=15

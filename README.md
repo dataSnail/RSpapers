@@ -100,22 +100,23 @@ Note:
 6. [2018-WSDM-CrossFire: Cross Media Joint Friend and Item Recommendations](http://www.public.asu.edu/~skai2/papers/wsdmf325-shuA.pdf) (JLT)
 7. [2018-WSDM-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://www.shichuan.org/hin/topic/Ranking/2018.WSDM 2018 Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking.pdf):bookmark:
    - heterogeneous network， BPR
-8. [2019-KDD-Is a Single Vector Enough Exploring Node Polysemy for Network Embedding](https://dl.acm.org/doi/10.1145/3292500.3330967) :bookmark:（XH）
-9. [2018-RecSys-Spectral collaborative filtering](https://dl.acm.org/doi/pdf/10.1145/3240323.3240343)
-10. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation :bookmark: (XNH)
-11. [2019-WWW-Recommender Systems with Heterogeneous Side Information](https://arxiv.org/pdf/1907.08679.pdf) (JLT)
-12. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) :bookmark: ⭐(XNH)
-13. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System:bookmark:
+8. [2019-ICDM-Multi-Graph Convolution Collaborative Filtering](https://arxiv.org/pdf/2001.00267.pdf) （HuaWei)
+9. [2019-KDD-Is a Single Vector Enough Exploring Node Polysemy for Network Embedding](https://dl.acm.org/doi/10.1145/3292500.3330967) :bookmark:（XH）
+10. [2018-RecSys-Spectral collaborative filtering](https://dl.acm.org/doi/pdf/10.1145/3240323.3240343)
+11. 2019-SIGIR-Relational Collaborative Filtering Modeling Multiple Item Relations for Recommendation :bookmark: (XNH)
+12. [2019-WWW-Recommender Systems with Heterogeneous Side Information](https://arxiv.org/pdf/1907.08679.pdf) (JLT)
+13. [2019-SIGIR-Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) :bookmark: ⭐(XNH)
+14. 2019-ICDM-I-CARS: An **Interactive** Context-Aware Recommender System:bookmark:
     - interactive recommender system
-14. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) :bookmark:(XNH)
-15. 2019-KDD-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
-16. [2019-KDD-NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/abs/1907.05559):bookmark:(XX)
-17. [2020-arXiv-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126) :bookmark:(XNH)
-18. [2020-arXiv-Neural Collaborative Filtering vs Matrix Factorization Revisited](https://arxiv.org/abs/2005.09683) (Steffen Rendle)
+15. [2019-TKDE-Learning to Recommend with Multiple Cascading Behaviors](https://arxiv.org/pdf/1809.08161.pdf) :bookmark:(XNH)
+16. 2019-KDD-Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
+17. [2019-KDD-NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/abs/1907.05559):bookmark:(XX)
+18. [2020-arXiv-LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126) :bookmark:(XNH)
 19. [2020-IJCAI-Bilinear Graph Neural Network with Neighbor Interactions](https://www.ijcai.org/Proceedings/2020/0202.pdf):bookmark:(XNH)
 20. 2020-IPM-MGAT: **Multimodal** Graph Attention Network for Recommendation:bookmark:(XNH)
 21. [2020-SIGIR-Disentangled Graph Collaborative Filtering](https://arxiv.org/abs/2007.01764)
 22. [2020-SIGIR-Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3397271.3401072)
+
 ### 06 Context-aware recommender system(CARS)
 
 1. 2011-RecSys-Matrix Factorization Techniques for Context Aware Recommendation:bookmark: 
@@ -136,6 +137,7 @@ Note:
 3. [2017-WSDM-Social collaborative viewpoint regression with explainable recommendations](https://dl.acm.org/doi/10.1145/3018661.3018686)
 4. [2018-EARS-Explaining Credibility in News Articles using Cross-Referencing](https://chauff.github.io/documents/publications/EARS2018-Bountouridis.pdf)
 5. [2019-AAAI-dynamic explainable recommendation based on neural attentive models](http://yongfeng.me/attach/dynamic-explainable-recommendation.pdf) :bookmark:
+6. [2020-AAAI-Attention-Guide Walk Model in Heterogeneous Information Network for Multi-Style Recommendation Explanation](https://www.aaai.org/ojs/index.php/AAAI/article/view/6095)
 
 ### 08 FM-based Recommeandation(A specific direction)
 1. 2010-Factorization Machines(FM):ballot_box_with_check:
@@ -145,3 +147,9 @@ Note:
 5. 2017-KDD-Deep & cross network for ad click predictions(Deep&Cross):ballot_box_with_check:
 6. 2017-Attentional factorization machines: Learning the weight of feature interactions via attention networks(Attentional FM):ballot_box_with_check:
 7. 2020-ICDE-Sequence-Aware Factorization Machines for Temporal Predictive Analytics（SeqFM):ballot_box_with_check:
+
+09 others
+
+1. [2020-KDD-On Sampled Metrics for Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226)
+2. [2020-arXiv-Neural Collaborative Filtering vs Matrix Factorization Revisited](https://arxiv.org/abs/2005.09683) (Steffen Rendle)
+3. 
