@@ -13,14 +13,15 @@ Note:
 ### 01. survey
 
 1. 2013-Springer-**Social recommendation**: a review :bookmark::ballot_box_with_check: (HL)
-2. 2018-Online-**Explainable Recommendation** A Survey and New Perspectives :bookmark:
-3. 2018-FGCS-Recommender Systems for Large-Scale Social Networks: A review of challenges and solutions:ballot_box_with_check:
-4. 2018-CJC-基于深度学习的推荐系统研究综述:bookmark:
-5. [2019-ACM-A Survey on **Session-based** Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf)
-6. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf):bookmark:
-7. [2019-RecSys-Are We Really Making Much Progress_ A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/abs/1907.06902)
+2. 2013-CC-A survey of collaborative filtering based social recommender systems
+3. 2018-Online-**Explainable Recommendation** A Survey and New Perspectives :bookmark:
+4. 2018-FGCS-Recommender Systems for Large-Scale Social Networks: A review of challenges and solutions:ballot_box_with_check:
+5. 2018-CJC-基于深度学习的推荐系统研究综述:bookmark:
+6. [2019-ACM-A Survey on **Session-based** Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf)
+7. [2019-CSUR-Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf):bookmark:
+8. [2019-RecSys-Are We Really Making Much Progress_ A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/abs/1907.06902)
    - an interesting and controversial paper😊
-8. [2020-Arxiv-graph learning approaches to recommender systems A review](https://arxiv.org/ftp/arxiv/papers/2004/2004.11718.pdf)
+9. [2020-Arxiv-graph learning approaches to recommender systems A review](https://arxiv.org/ftp/arxiv/papers/2004/2004.11718.pdf)
 
 
 ### 02. social recommendation
@@ -116,6 +117,8 @@ Note:
 20. 2020-IPM-MGAT: **Multimodal** Graph Attention Network for Recommendation:bookmark:(XNH)
 21. [2020-SIGIR-Disentangled Graph Collaborative Filtering](https://arxiv.org/abs/2007.01764)
 22. [2020-SIGIR-Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3397271.3401072)
+23. 2020-arXiv-Self-supervised Graph Learning for Recommendation
+24. 
 
 ### 06 Context-aware recommender system(CARS)
 

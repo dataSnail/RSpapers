@@ -4,3 +4,4 @@
 2. Digg(m-t-u-u, u-i-t):https://www.isi.edu/~lerman/downloads/digg2009.html
 3. Epinions: (u-i-r,u-u-m)http://www.trustlet.org/downloaded_epinions.html
 4. https://cseweb.ucsd.edu/~jmcauley/datasets.html
+5. delicious，lastfm，movielens： http://files.grouplens.org/datasets/hetrec2011/
